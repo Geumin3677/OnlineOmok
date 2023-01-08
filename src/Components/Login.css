@@ -1,0 +1,117 @@
+.LoginCxt {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cxt {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.LoginText {
+  font-size: 4vw;
+  font-weight: 700;
+  font-family: 'GmarketSansBold';
+  margin-bottom: 20px;
+}
+
+.signupLink {
+    margin-top: 20px;
+}
+
+.InputCxt {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    height: 340px;
+    min-height: 280px;
+    width: 490px;
+    min-width: 340px;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    align-items: center;
+}
+
+.IDInput {
+    height: 155px;
+    width: 455px;
+    border: none;
+    background-color: rgb(226, 226, 226);
+    border-radius: 1rem;
+    font-size: 25px;
+    padding: 20px;
+    font-family: 'GmarketSansMedium';
+}:focus{
+    outline: none;
+}
+
+.PWInput {
+    height: 155px;
+    width: 455px;
+    border: none;
+    background-color: rgb(226, 226, 226);
+    border-radius: 1rem;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'GmarketSansMedium';
+}:focus{
+    outline: none;
+}
+
+.IDText {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+    font-family: 'GmarketSansMedium';
+    font-weight: 700;
+    color: rgb(59, 59, 59);
+}
+
+.PWText {
+    width: 100%;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: 'GmarketSansMedium';
+    font-weight: 700;
+    color: rgb(59, 59, 59);
+}
+
+.SubmitBt{
+    height: 255px;
+    width: 495px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgb(75, 75, 75);
+    border-radius: 1rem;
+    font-size: large;
+    color: white;
+    font-family: 'GmarketSansMedium';
+}
+
+.fucku {
+    width: 100%;
+    text-align: left;
+    font-size: 1vw;
+    color: red;
+}
+
+.fuckup {
+    width: 100%;
+    text-align: left;
+    font-size: 1vw;
+    color: red;
+}
+
+.fuckups {
+    width: 100%;
+    text-align: left;
+    font-size: 1vw;
+    color: red;
+}
