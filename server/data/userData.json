@@ -1,0 +1,22 @@
+{
+	"Users": [
+		{
+			"username": "Admin",
+			"id": "fbiopenup",
+			"pw": "A380a350",
+			"uid": 0
+		},
+		{
+			"username": "박하늘30812",
+			"id": "gomgom",
+			"pw": "A380a350",
+			"uid": 1
+		},
+		{
+			"username": "fox0070g",
+			"id": "fox0070g",
+			"pw": "zxcvbnm",
+			"uid": 2
+		}
+	]
+}
